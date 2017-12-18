@@ -7,6 +7,8 @@ A loghandler for integration with slack.
     :target: https://badge.fury.io/py/logslacker
 .. image:: https://travis-ci.org/inJeans/LogSlacker.svg?branch=master
     :target: https://travis-ci.org/inJeans/LogSlacker
+.. image:: https://img.shields.io/codecov/c/github/codecov/example-python.svg
+    :target: https://codecov.io/gh/inJeans/LogSlacker
 
 To use (with caution), simply do::
 
