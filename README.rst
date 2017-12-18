@@ -9,8 +9,8 @@ A loghandler for integration with slack.
     :target: https://travis-ci.org/inJeans/LogSlacker
 .. image:: https://img.shields.io/codecov/c/github/codecov/example-python.svg
     :target: https://codecov.io/gh/inJeans/LogSlacker
-.. image:: https://readthedocs.org/projects/pip/badge/?version=stable
-    :target: http://pip.pypa.io/en/stable/?badge=stable
+.. image:: https://readthedocs.org/projects/logslacker/badge/?version=latest
+    :target: http://logslacker.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
 To use (with caution), simply do::
