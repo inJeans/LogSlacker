@@ -3,5 +3,6 @@ python:
   - "2.7"
   - "3.6"
 script:
-  nose2 --with-coverage
-  codecov
+  - pwd
+  - nose2 --with-coverage
+  - codecov
